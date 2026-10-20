@@ -3,7 +3,7 @@
 
 🔷 Multi-Model Option Pricing & Market Benchmarking
 
-👤 Author: Partha Sarathi Chakraborty | Quantitative Analyst / Researcher
+👤 Author: Leana Tran | Mathematics & Machine Learning Student/Researcher
 
 
 
